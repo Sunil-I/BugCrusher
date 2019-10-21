@@ -1,0 +1,9 @@
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\bin\Debug\BugCrusher.exe
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\bin\Debug\BugCrusher.pdb
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\bin\Debug\BugCrusher.xml
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.Resources.resources
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.vbproj.GenerateResource.Cache
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.exe
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.xml
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.pdb
+\\file-student\studenthomes\46204\visual studio 2010\Projects\BugCrusher\BugCrusher\obj\x86\Debug\BugCrusher.game.resources
